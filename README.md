@@ -1,14 +1,21 @@
 🎭 Hangman Game
+
 A fun and interactive Hangman game built with HTML, CSS, and JavaScript. Guess the hidden word before you run out of attempts!
 
 🔹 Features
+
 ✅ User-friendly interface with smooth animations
+
 ✅ Dynamic word selection with hints
+
 ✅ Correct guesses turn green, incorrect ones turn red
+
 ✅ Keyboard input support (Press Enter to submit)
+
 ✅ Stylish UI with hover effects and a celebration effect when you win 🎉
 
 🚀 Live Demo
+
 🔗 Play the Game Here (Replace with your actual GitHub Pages link)
 
 📌 How to Play
@@ -19,9 +26,9 @@ A fun and interactive Hangman game built with HTML, CSS, and JavaScript. Guess t
 5. Win by guessing the word before running out of tries!
    
 🛠️ Technologies Used
-   HTML → Structure
-   CSS → Styling & Animations
-   JavaScript → Game Logic
+   HTML → Structure   
+   CSS → Styling & Animations   
+   JavaScript → Game Logic   
    
 📂 Installation
 To run the game locally:
