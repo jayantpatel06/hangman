@@ -25,7 +25,7 @@ A fun and interactive Hangman game built with HTML, CSS, and JavaScript. Guess t
 4. Wrong guesses will reduce your remaining attempts.
 5. Win by guessing the word before running out of tries!
    
-🛠️ Technologies Used
+🛠️ Technologies Used   
    HTML → Structure   
    CSS → Styling & Animations   
    JavaScript → Game Logic   
